@@ -1,3 +1,4 @@
 print("Welcome")
 print("How are you?")
 print("Have a nice day!")
+print("What about cup of tea?")
